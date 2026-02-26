@@ -1,5 +1,6 @@
 # ADONAI DOS SANTOS COSTA
-## Solutions Architect | Principal SRE | Kubernetes & Cloud Native Specialist | AI-Augmented Engineering
+### Principal SRE · Solutions Architect · Kubernetes & Cloud Native Specialist  
+### AI-Augmented Engineering | Platform Reliability | Multi-Cloud
 
 São Paulo – Brazil  
 📧 adonai.costa@gmail.com  
@@ -7,114 +8,95 @@ São Paulo – Brazil
 
 ---
 
-## PROFESSIONAL SUMMARY
+> Architecting resilient, scalable, AI-augmented cloud platforms operating at scale.
 
-Solutions Architect and Principal SRE with 15+ years of experience in infrastructure, cloud, and distributed platforms. Recognized specialist in Kubernetes, Cloud Native, and Site Reliability Engineering, operating in highly critical, regulated, and large-scale environments.
+---
 
-Currently operating ~120 Kubernetes clusters across on-premises and cloud environments, supporting 200–1500 deployments. Strong focus on:
+## 🧠 PROFILE
+
+Principal-level Site Reliability Engineer and Solutions Architect with 15+ years of experience in infrastructure, distributed systems, and cloud-native platforms.
+
+Operating ~120 Kubernetes clusters across hybrid and multi-cloud environments, supporting 200–1500 deployments.
+
+Focused on:
 
 - High Availability & Resilience  
-- Full-Stack Observability  
-- Security & Compliance  
-- Platform Engineering  
-- Infrastructure as Code  
-- Multi-Cloud Architecture  
+- Observability & Reliability Engineering  
+- Secure Platform Architecture  
+- GitOps & Infrastructure as Code  
+- AI-Driven Operations (AIOps)  
 
-Actively applying **AI-augmented engineering (vibe coding)** using Gemini, Claude, and Antigravity to accelerate architecture design, advanced troubleshooting, manifest generation, IaC, and CI/CD pipelines — achieving ~50% MTTR reduction in critical incidents.
-
----
-
-## CORE EXPERTISE
-
-- Kubernetes (On-Prem, Hybrid, Managed)
-- Cloud Native Architecture
-- Site Reliability Engineering (SRE)
-- GitOps (Argo CD, Flux CD)
-- Observability (Prometheus, Grafana, Loki, Tempo)
-- Service Mesh (Istio, Linkerd)
-- DevSecOps & Compliance
-- Infrastructure as Code (Terraform, Ansible, Puppet)
-- CI/CD Automation (GitHub, GitLab, Bitbucket)
-- AIOps & AI-Assisted Engineering
-- Multi-Cloud (GCP, AWS, Azure, OCI)
-- Mission-Critical Environment Operations
+Actively applying **AI-augmented engineering (vibe coding)** using Gemini, Claude, and Antigravity to accelerate architectural design, troubleshooting, IaC, CI/CD, and incident response — reducing MTTR by ~50% in critical incidents.
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+## ⚙ CORE CAPABILITIES
+
+**Kubernetes Expertise**  
+On-Prem · Hybrid · Managed (GKE · EKS · AKS · OKE · DOKS)
+
+**Cloud Native Architecture**  
+Platform Engineering · GitOps · DevSecOps · Service Mesh
+
+**Reliability Engineering**  
+SLO/SLI · Incident Response · Scalability · 1M req/sec traffic peaks
+
+**AI-Augmented Operations**  
+LLM-driven troubleshooting · Manifest generation · Incident diagnostics · Automation acceleration
+
+**Multi-Cloud Strategy**  
+GCP · AWS · Azure · OCI
+
+---
+
+## 🚀 EXPERIENCE HIGHLIGHTS
 
 ### Senior Infrastructure Engineer / Senior SRE  
-**An Big Big Big Operations in Kubernetes in Brazil** 
+**In a Big Big Big Kubernetes and Cloud Operations in Brazil**
 
-- Architect and evolve multi-cloud Kubernetes clusters (GKE, AKS, EKS, DOKS, OKE)  
-- Standardize GitOps using Argo CD and Flux CD  
-- Design and operate full observability stack  
-- Implement Service Mesh for secure traffic control  
-- Automate infrastructure with Terraform and Ansible  
-- Apply LLM-driven engineering for incident acceleration and platform evolution  
-- Achieved 30% cloud cost reduction (~BRL 1.5M/year) via FinOps and OSS strategy  
-- Operate and evolve ~100 Kubernetes clusters  
-- Manage 100–1500 concurrent deployments  
-- Strategic consulting and advanced troubleshooting  
-- Cloud cost optimization (~$300K–$1M/year savings in some clients)  
-- Scalability design handling peaks up to 1M req/sec  
-- Applied generative AI for distributed systems diagnostics and POCs  
+- Multi-cloud Kubernetes architecture and evolution  
+- Full observability stack design (Prometheus, Grafana, Loki, Tempo)  
+- Service Mesh implementation (Istio, Linkerd)  
+- GitOps standardization (Argo CD, Flux CD)  
+- Terraform & Ansible automation  
+- AI-driven incident acceleration  
+- **30% cloud cost reduction (~BRL 1.5M/year)** via OSS strategy & FinOps  
+- Operate ~100 Kubernetes clusters  
+- 100–1500 concurrent deployments  
+- Strategic consulting & advanced troubleshooting  
+- Cost optimization initiatives (~$300K–$1M/year savings)  
+- Designed scalability for **1M req/sec** traffic peaks  
+- Generative AI applied to distributed systems diagnostics  
 
 ---
 
 ### Infrastructure Architect / SRE  
-**An Bank in Brazil** 
+**In a Bank in Brazil** 
 
-- Kubernetes architecture for financial sector  
-- Enterprise GitOps & CI/CD pipelines  
-- Security, compliance, and high availability focus  
-- Multi-cloud environments (GCP, AWS, Azure)  
-- AI-assisted incident diagnostics  
-
----
-
-### Cloud Infrastructure Specialist  
-**An Health Company in Brazil**  
-
-- Kubernetes on-premises  
-- CI/CD pipelines (Jenkins)  
-- Terraform & Ansible automation  
-- Service Mesh & GitOps implementation  
+- Financial-grade Kubernetes architecture  
+- Enterprise GitOps & CI/CD  
+- Security, compliance & high availability  
+- AI-assisted diagnostics in regulated environments  
 
 ---
 
-### Cloud Infrastructure Specialist  
-**An BigTech in Brazil**
+## 🏆 CERTIFICATIONS
 
-- Kubernetes on-prem automation  
-- CI/CD pipelines  
-
----
-
-### Cloud Engineering Analyst  
-**An Big Big Big Bank in Brazil**
-
-- Private cloud automation (Puppet, Ansible, OpenStack)  
-- DevSecOps squad Tech Lead  
-- Infrastructure modernization & migration design  
+Google Cloud Professional Architect  
+CKA · CKS · LFCE / LFCS · LPIC 1 & 2  
 
 ---
 
-## CERTIFICATIONS
+## 🛠 TECHNOLOGY STACK
 
-- Google Cloud Professional Architect  
-- CKA – Certified Kubernetes Administrator  
-- CKS – Certified Kubernetes Security Specialist  
-- LFCE / LFCS  
-- LPIC 1 & 2  
-
----
-
-## TECHNOLOGY STACK
-
-Kubernetes · GKE · EKS · AKS · OpenShift · Rancher · Terraform · Ansible · Argo CD · Flux CD · Prometheus · Grafana · Loki · Tempo · Istio · Linkerd · Kyverno · Cert-Manager · Docker · Linux · Python · GCP · AWS · Azure · OCI · Generative AI · AIOps  
+Kubernetes · GKE · EKS · AKS · OpenShift · Rancher  
+Terraform · Ansible · Argo CD · Flux CD  
+Prometheus · Grafana · Loki · Tempo  
+Istio · Linkerd · Kyverno · Cert-Manager  
+Docker · Linux · Python  
+GCP · AWS · Azure · OCI  
+Generative AI · AIOps · AI-Assisted Coding  
 
 ---
 
-
-> Principal-level Kubernetes & AI-Augmented Platform Engineering
+> Designing mission-critical Kubernetes platforms with AI-accelerated engineering.
