@@ -1,37 +1,120 @@
-## Welcome to GitHub Pages
+# ADONAI DOS SANTOS COSTA
+## Solutions Architect | Principal SRE | Kubernetes & Cloud Native Specialist | AI-Augmented Engineering
 
-You can use the [editor on GitHub](https://github.com/adonaicosta/adonai.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+São Paulo – Brazil  
+📧 adonai.costa@gmail.com  
+🔗 https://linkedin.com/in/adonaicosta  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## PROFESSIONAL SUMMARY
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Solutions Architect and Principal SRE with 15+ years of experience in infrastructure, cloud, and distributed platforms. Recognized specialist in Kubernetes, Cloud Native, and Site Reliability Engineering, operating in highly critical, regulated, and large-scale environments.
 
-```markdown
-Syntax highlighted code block
+Currently operating ~120 Kubernetes clusters across on-premises and cloud environments, supporting 200–1500 deployments. Strong focus on:
 
-# Header 1
-## Header 2
-### Header 3
+- High Availability & Resilience  
+- Full-Stack Observability  
+- Security & Compliance  
+- Platform Engineering  
+- Infrastructure as Code  
+- Multi-Cloud Architecture  
 
-- Bulleted
-- List
+Actively applying **AI-augmented engineering (vibe coding)** using Gemini, Claude, and Antigravity to accelerate architecture design, advanced troubleshooting, manifest generation, IaC, and CI/CD pipelines — achieving ~50% MTTR reduction in critical incidents.
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+## CORE EXPERTISE
 
-[Link](url) and ![Image](src)
-```
+- Kubernetes (On-Prem, Hybrid, Managed)
+- Cloud Native Architecture
+- Site Reliability Engineering (SRE)
+- GitOps (Argo CD, Flux CD)
+- Observability (Prometheus, Grafana, Loki, Tempo)
+- Service Mesh (Istio, Linkerd)
+- DevSecOps & Compliance
+- Infrastructure as Code (Terraform, Ansible, Puppet)
+- CI/CD Automation (GitHub, GitLab, Bitbucket)
+- AIOps & AI-Assisted Engineering
+- Multi-Cloud (GCP, AWS, Azure, OCI)
+- Mission-Critical Environment Operations
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
+## PROFESSIONAL EXPERIENCE
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adonaicosta/adonai.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Senior Infrastructure Engineer / Senior SRE  
+**An Big Big Big Operations in Kubernetes in Brazil** 
 
-### Support or Contact
+- Architect and evolve multi-cloud Kubernetes clusters (GKE, AKS, EKS, DOKS, OKE)  
+- Standardize GitOps using Argo CD and Flux CD  
+- Design and operate full observability stack  
+- Implement Service Mesh for secure traffic control  
+- Automate infrastructure with Terraform and Ansible  
+- Apply LLM-driven engineering for incident acceleration and platform evolution  
+- Achieved 30% cloud cost reduction (~BRL 1.5M/year) via FinOps and OSS strategy  
+- Operate and evolve ~100 Kubernetes clusters  
+- Manage 100–1500 concurrent deployments  
+- Strategic consulting and advanced troubleshooting  
+- Cloud cost optimization (~$300K–$1M/year savings in some clients)  
+- Scalability design handling peaks up to 1M req/sec  
+- Applied generative AI for distributed systems diagnostics and POCs  
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+
+### Infrastructure Architect / SRE  
+**An Bank in Brazil** 
+
+- Kubernetes architecture for financial sector  
+- Enterprise GitOps & CI/CD pipelines  
+- Security, compliance, and high availability focus  
+- Multi-cloud environments (GCP, AWS, Azure)  
+- AI-assisted incident diagnostics  
+
+---
+
+### Cloud Infrastructure Specialist  
+**An Health Company in Brazil**  
+
+- Kubernetes on-premises  
+- CI/CD pipelines (Jenkins)  
+- Terraform & Ansible automation  
+- Service Mesh & GitOps implementation  
+
+---
+
+### Cloud Infrastructure Specialist  
+**An BigTech in Brazil**
+
+- Kubernetes on-prem automation  
+- CI/CD pipelines  
+
+---
+
+### Cloud Engineering Analyst  
+**An Big Big Big Bank in Brazil**
+
+- Private cloud automation (Puppet, Ansible, OpenStack)  
+- DevSecOps squad Tech Lead  
+- Infrastructure modernization & migration design  
+
+---
+
+## CERTIFICATIONS
+
+- Google Cloud Professional Architect  
+- CKA – Certified Kubernetes Administrator  
+- CKS – Certified Kubernetes Security Specialist  
+- LFCE / LFCS  
+- LPIC 1 & 2  
+
+---
+
+## TECHNOLOGY STACK
+
+Kubernetes · GKE · EKS · AKS · OpenShift · Rancher · Terraform · Ansible · Argo CD · Flux CD · Prometheus · Grafana · Loki · Tempo · Istio · Linkerd · Kyverno · Cert-Manager · Docker · Linux · Python · GCP · AWS · Azure · OCI · Generative AI · AIOps  
+
+---
+
+
+> Principal-level Kubernetes & AI-Augmented Platform Engineering
