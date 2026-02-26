@@ -91,7 +91,7 @@ CKA · CKS · LFCE / LFCS · LPIC 1 & 2
 
 Kubernetes · GKE · EKS · AKS · OpenShift · Rancher  
 Terraform · Ansible · Argo CD · Flux CD  
-Prometheus · Grafana · Loki · Tempo  
+Prometheus · Grafana · Loki · Tempo - ElasticSearch
 Istio · Linkerd · Kyverno · Cert-Manager  
 Docker · Linux · Python  
 GCP · AWS · Azure · OCI  
